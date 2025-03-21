@@ -1,7 +1,7 @@
 package Java;
 class Encapsulation { // user-defined class
 
-    private String name = "Nokesh";
+    private String name = "KOMALI";
 
     public String getName() {
         return name;
